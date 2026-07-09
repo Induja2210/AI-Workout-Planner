@@ -1,0 +1,30 @@
+Workout_Category,Day,Exercise_1,Exercise_2,Exercise_3,Cardio,Stretching
+Strength,Monday,Squats,Push-ups,Dumbbell Rows,10 min Walk,5 min
+Strength,Tuesday,Deadlifts,Shoulder Press,Plank,15 min Cycling,5 min
+Strength,Wednesday,Bench Press,Lunges,Bicep Curls,10 min Jog,5 min
+Strength,Thursday,Leg Press,Pull-ups,Mountain Climbers,15 min Walk,5 min
+Strength,Friday,Goblet Squats,Chest Press,Plank,10 min Cycling,5 min
+
+Cardio,Monday,Jumping Jacks,Mountain Climbers,Burpees,30 min Running,5 min
+Cardio,Tuesday,High Knees,Jump Rope,Plank,25 min Cycling,5 min
+Cardio,Wednesday,Jump Squats,Mountain Climbers,Bicycle Crunches,30 min Walk,5 min
+Cardio,Thursday,Jump Rope,High Knees,Burpees,25 min Jog,5 min
+Cardio,Friday,Jumping Jacks,Plank,Mountain Climbers,30 min Cycling,5 min
+
+Balanced,Monday,Squats,Push-ups,Plank,20 min Walk,5 min
+Balanced,Tuesday,Lunges,Rows,Shoulder Press,20 min Cycling,5 min
+Balanced,Wednesday,Step-ups,Push-ups,Crunches,20 min Walk,5 min
+Balanced,Thursday,Goblet Squats,Plank,Rows,20 min Jog,5 min
+Balanced,Friday,Lunges,Chest Press,Plank,20 min Walk,5 min
+
+Endurance,Monday,Running,Plank,Burpees,35 min Run,5 min
+Endurance,Tuesday,Cycling,Lunges,Mountain Climbers,40 min Cycling,5 min
+Endurance,Wednesday,Jump Rope,Push-ups,Plank,35 min Walk,5 min
+Endurance,Thursday,Running,Squats,Bicycle Crunches,40 min Jog,5 min
+Endurance,Friday,Cycling,Burpees,Plank,35 min Run,5 min
+
+Low Impact,Monday,Chair Squats,Wall Push-ups,Leg Raises,20 min Walk,5 min
+Low Impact,Tuesday,Seated March,Resistance Band Rows,Plank,20 min Cycling,5 min
+Low Impact,Wednesday,Chair Lunges,Wall Push-ups,Stretching,20 min Walk,5 min
+Low Impact,Thursday,Leg Raises,Resistance Band Press,Plank,20 min Cycling,5 min
+Low Impact,Friday,Chair Squats,Wall Push-ups,Stretching,20 min Walk,5 min

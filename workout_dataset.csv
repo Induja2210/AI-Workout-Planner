@@ -1,0 +1,21 @@
+Age,Gender,BMI,Activity_Level,Fitness_Goal,Workout_Category
+20,Female,17,Lightly Active,Muscle Gain,Strength
+22,Male,18,Moderately Active,Muscle Gain,Strength
+25,Female,23,Moderately Active,Maintain Fitness,Balanced
+28,Male,27,Sedentary,Weight Loss,Cardio
+35,Female,32,Sedentary,Weight Loss,Low Impact
+30,Male,24,Very Active,Improve Endurance,Endurance
+26,Female,22,Lightly Active,Maintain Fitness,Balanced
+40,Male,31,Sedentary,Weight Loss,Low Impact
+24,Female,26,Moderately Active,Weight Loss,Cardio
+27,Male,21,Very Active,Improve Endurance,Endurance
+21,Female,18,Moderately Active,Muscle Gain,Strength
+33,Male,29,Lightly Active,Weight Loss,Cardio
+29,Female,23,Very Active,Maintain Fitness,Balanced
+31,Male,25,Moderately Active,Weight Loss,Cardio
+23,Female,20,Very Active,Improve Endurance,Endurance
+34,Female,33,Sedentary,Weight Loss,Low Impact
+22,Male,19,Lightly Active,Muscle Gain,Strength
+36,Female,24,Moderately Active,Maintain Fitness,Balanced
+41,Male,34,Sedentary,Weight Loss,Low Impact
+25,Female,21,Very Active,Improve Endurance,Endurance
